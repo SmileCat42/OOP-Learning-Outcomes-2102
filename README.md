@@ -44,7 +44,8 @@
     <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">คะแนนทั้งระดับชั้น</a></td>
   </tr>
 </table>
-
+<br>
+<br>
 <a id="english"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
 1. Understand how to use classes and create objects, including how they are related and how to apply them in practical situations
