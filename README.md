@@ -21,5 +21,6 @@
 <br>
 <h1 align="center"><b>ผลการเรียนรู้</b></h1>
 <h3 align="center">กลางภาค</h3>
+📄 <a href="2102mid.txt" target="_blank">การจดบันทึก</a><br>
 📄 <a href="Exam/mid30.pdf" target="_blank">ข้อสอบ</a><br>
 📄 <a href="Score/Smid2102.JPG" target="_blank">คะแนนทั้งระดับชั้น</a><br>
