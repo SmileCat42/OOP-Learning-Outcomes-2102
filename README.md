@@ -46,3 +46,12 @@
 </table>
 
 <a id="english"></a>
+<h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
+1. Understand how to use classes and create objects, including how they are related and how to apply them in practical situations
+<br>2. Be able to create default constructors, constructors and destructors, understand the order of created and destroyed
+<br>3. I can imagine what a dynamic array is, understand its structure how to works and recognize the conditions or constraints of its use
+<br>4. Understand the concept of friend relationships—both friend classes and friend functions—along with their advantages and precautions.
+<br>5. Understand the concept of inheritance, both single and multiple inheritance, and be able to explain how access attribute or function in base class (private, protected, public) affect what the derived class can use or access.
+<br>6. Understand the problems that can happen with multiple inheritance, such as ambiguity when calling functions, and know how to fix these issues using the virtual keyword, including its basic usage and limitations.
+<br>7. Be able to create different types of operator overloading and use them correctly in real programs
+<br>8. Understand and apply polymorphism using dynamic binding, and know what abstract classes and pure virtual functions are, why they are used, and how to apply them in object-oriented programming.
