@@ -20,17 +20,29 @@
 <br>
 <br>
 <h1 align="center"><b>ผลการเรียนรู้</b></h1>
-<h3 align="left">กลางภาค</h3>
-📄 <a href="2102mid.txt" target="_blank">การจดบันทึก</a><br>
-📄 <a href="Exam/mid30.pdf" target="_blank">ข้อสอบ</a><br>
-📄 <a href="Score/Smid2102.JPG" target="_blank">คะแนนทั้งระดับชั้น</a><br>
 <br>
-<h3 align="left">ปลายภาค</h3>
-📄 <a href="2102fin.txt" target="_blank">การจดบันทึก</a><br>
-📄 <a href="Exam/exam2102.pdf" target="_blank">ข้อสอบ</a><br>
-📄 <a href="Score/Sfin2102.pdf" target="_blank">คะแนนทั้งระดับชั้น</a><br>
+<br>
 
-| ภาค | โน้ต | ข้อสอบ | คะแนน |
-|-----|---------|--------------|--------|
-|  &nbsp;**กลางภาค** &nbsp; | &nbsp; [📘 การจดบันทึก](2102mid.txt) <br> &nbsp; | &nbsp;[📝 ข้อสอบ](Exam/mid30.pdf) <br> &nbsp; | &nbsp;[📊 คะแนนทั้งระดับชั้น](Score/Smid2102.JPG) &nbsp; |
-|  &nbsp;**ปลายภาค** &nbsp; | &nbsp; [📘 การจดบันทึก](2102fin.txt) <br>  &nbsp;| &nbsp;[📝 ข้อสอบ](Exam/exam2102.pdf) <br>  &nbsp;| &nbsp;[📊 คะแนนทั้งระดับชั้น](Score/Sfin2102.pdf)  &nbsp;|
+
+<table style="width:100%; border-collapse:collapse; text-align:center;">
+  <tr style="background-color:#f4f4f4;">
+    <th>ภาค</th>
+    <th>โน้ต</th>
+    <th>ข้อสอบ</th>
+    <th>คะแนน</th>
+  </tr>
+  <tr>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;"><b>กลางภาค</b></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📘 <a href="2102mid.txt">การจดบันทึก</a><br></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📝 <a href="Exam/mid30.pdf">ข้อสอบ</a><br></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📊 <a href="Score/Smid2102.JPG">คะแนนทั้งระดับชั้น</a></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle;"><b>ปลายภาค</b></td>
+    <td style="text-align:center; vertical-align:middle;">📘 <a href="2102fin.txt">การจดบันทึก</a><br></td>
+    <td style="text-align:center; vertical-align:middle;">📝 <a href="Exam/exam2102.pdf">ข้อสอบ</a><br></td>
+    <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">คะแนนทั้งระดับชั้น</a></td>
+  </tr>
+</table>
+
+<a id="english"></a>
