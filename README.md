@@ -29,3 +29,8 @@
 📄 <a href="2102fin.txt" target="_blank">การจดบันทึก</a><br>
 📄 <a href="Exam/exam2102.pdf" target="_blank">ข้อสอบ</a><br>
 📄 <a href="Score/Sfin2102.pdf" target="_blank">คะแนนทั้งระดับชั้น</a><br>
+
+| ภาค | โน้ต | ข้อสอบ | คะแนน |
+|-----|---------|--------------|--------|
+|  &nbsp;**กลางภาค** &nbsp; | &nbsp; [📘 การจดบันทึก](2102mid.txt) <br> &nbsp; | &nbsp;[📝 ข้อสอบ](Exam/mid30.pdf) <br> &nbsp; | &nbsp;[📊 คะแนนทั้งระดับชั้น](Score/Smid2102.JPG) &nbsp; |
+|  &nbsp;**ปลายภาค** &nbsp; | &nbsp; [📘 การจดบันทึก](2102fin.txt) <br>  &nbsp;| &nbsp;[📝 ข้อสอบ](Exam/exam2102.pdf) <br>  &nbsp;| &nbsp;[📊 คะแนนทั้งระดับชั้น](Score/Sfin2102.pdf)  &nbsp;|
