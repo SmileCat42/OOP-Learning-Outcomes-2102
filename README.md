@@ -24,3 +24,8 @@
 📄 <a href="2102mid.txt" target="_blank">การจดบันทึก</a><br>
 📄 <a href="Exam/mid30.pdf" target="_blank">ข้อสอบ</a><br>
 📄 <a href="Score/Smid2102.JPG" target="_blank">คะแนนทั้งระดับชั้น</a><br>
+<br>
+<h3 align="center">ปลายภาค</h3>
+📄 <a href="2102fin.txt" target="_blank">การจดบันทึก</a><br>
+📄 <a href="Exam/exam2102.pdf" target="_blank">ข้อสอบ</a><br>
+📄 <a href="Score/Sfin2102.pdf" target="_blank">คะแนนทั้งระดับชั้น</a><br>
