@@ -43,6 +43,8 @@
     <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">คะแนนทั้งระดับชั้น</a></td>
   </tr>
 </table>
+ปล. สำหรับข้อสอบพาร์ทเขียนโค้ด ท่านสามารถดูโค้ดที่กอล์ฟเขียนส่งอาจารย์ได้ที่ไฟล์ <a href="6705500269.cpp" target="_blank">6705500269.cpp</a>
+<br>และข้อสอบพาร์ทตรวจหา error และเขียนลำดับ output อาจารย์ได้ให้เขียนลงกระดาษคำตอบและส่งไปเรียบร้อยค่ะ
 <br><br>
 <br>
 <br>
@@ -83,5 +85,5 @@
     <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">Score fin all section</a></td>
   </tr>
 </table>
-<br>
-<br>
+Note. For the coding part of the exam, you can view the code that Golf sent to the teacher at file <a href="6705500269.cpp" target="_blank">6705500269.cpp</a>.
+<br>As for the parts find error and output sequence, the answers were written on the answer sheet and have already been submitted.
