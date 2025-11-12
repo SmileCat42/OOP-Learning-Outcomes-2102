@@ -44,6 +44,7 @@
     <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">คะแนนทั้งระดับชั้น</a></td>
   </tr>
 </table>
+<br><br>
 <br>
 <br>
 <a id="english"></a>
@@ -56,6 +57,7 @@
 <br>6. Understand the problems that can happen with multiple inheritance, such as ambiguity when calling functions, and know how to fix these issues using the virtual keyword, including its basic usage and limitations.
 <br>7. Be able to create different types of operator overloading and use them correctly in real programs
 <br>8. Understand and apply polymorphism using dynamic binding, and know what abstract classes and pure virtual functions are, why they are used, and how to apply them in object-oriented programming.
+<br>
 <br>
 <br>
 <h1 align="center"><b>Learning Recieved</b></h1>
