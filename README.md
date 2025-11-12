@@ -19,8 +19,7 @@
 <br>8. นำหลักการ Polymorphism ไปใช้งานโดยใช้ Dynamic binding ได้จริง เข้าใจถึงการทำ Abstract class หรือเพียวฟังก์ชั่น ว่าทำไปเพื่ออะไร นำไปใช้งานอย่างไร
 <br>
 <br>
-<h1 align="center"><b>ผลการเรียนรู้</b></h1>
-<br>
+<h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 <br>
 
 
@@ -60,8 +59,7 @@
 <br>
 <br>
 <br>
-<h1 align="center"><b>Learning Recieved</b></h1>
-<br>
+<h2 style="text-indent: 2em; text-decoration: underline;">Learning Recieved</h2>
 <br>
 
 
