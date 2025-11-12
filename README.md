@@ -56,3 +56,32 @@
 <br>6. Understand the problems that can happen with multiple inheritance, such as ambiguity when calling functions, and know how to fix these issues using the virtual keyword, including its basic usage and limitations.
 <br>7. Be able to create different types of operator overloading and use them correctly in real programs
 <br>8. Understand and apply polymorphism using dynamic binding, and know what abstract classes and pure virtual functions are, why they are used, and how to apply them in object-oriented programming.
+<br>
+<br>
+<h1 align="center"><b>Learning Recieved</b></h1>
+<br>
+<br>
+
+
+<table style="width:100%; border-collapse:collapse; text-align:center;">
+  <tr style="background-color:#f4f4f4;">
+    <th>Term</th>
+    <th>Note</th>
+    <th>Exam</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;"><b>Mid Term</b></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📘 <a href="2102mid.txt">Note mid</a><br></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📝 <a href="Exam/mid30.pdf">Exam mid</a><br></td>
+    <td style="padding:15px; width:15%; style="text-align:center; vertical-align:middle;">📊 <a href="Score/Smid2102.JPG">Score mid all section</a></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle;"><b>Final Term</b></td>
+    <td style="text-align:center; vertical-align:middle;">📘 <a href="2102fin.txt">Note fin</a><br></td>
+    <td style="text-align:center; vertical-align:middle;">📝 <a href="Exam/exam2102.pdf">Exam fin</a><br></td>
+    <td style="text-align:center; vertical-align:middle;">📊 <a href="Score/Sfin2102.pdf">Score fin all section</a></td>
+  </tr>
+</table>
+<br>
+<br>
